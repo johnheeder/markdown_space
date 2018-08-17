@@ -12,7 +12,9 @@ Maintain a user profile through the XyZ Co Portal.
  5. To change a password, click the Change Password link, make the change, then click Change. For security reasons, our recommendation is to create a password with at least eight characters using both letters and numbers.
  6. To update an account, click the Edit button and complete the form. Refer to Table 1 below for help on the fields.
  7. Red Flag preferences control settings on information, warning, and critical notifications from the system. Set Red Flag preferences for information, warning, and critical notifications by selecting an item in each drop-down list in the Notifications section.
+
 *Table 1*
+
     |  Field  |  Description  |
     |----|----|
     |  Group  |  The Group/Division the user is assigned to.  |
