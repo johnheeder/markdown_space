@@ -14,26 +14,26 @@ Maintain a user profile through the XyZ Co Portal.
  7. Red Flag preferences control settings on information, warning, and critical notifications from the system. Set Red Flag preferences for information, warning, and critical notifications by selecting an item in each drop-down list in the Notifications section.
 
 *Table 1*
-git
-    |  Field  |  Description  |
-    |----|----|
-    |  Group  |  The Group/Division the user is assigned to.  |
-    |  Team  |  The Team the user is assigned to.  |
-    |  User Name  |  The user’s XyZ Co portal account username.  |
-    |  Locale  |  The user's language of choice.  |
-    |  Measurement  |  How measurements are displayed in the portal. Options include English (US Standard) or Metric (European Standard).  |
-    |  Fuel Efficiency Ratio  | Sets the fuel conversion preference. Options include MPG (miles per gallon) or KPL (kilometers per liter).  |
-    |  Information  |  Set your communication preference for “Information” Red Flag Alerts.  |
-    |  Warning  |  Set your communication preference for “Warning” Red Flag Alerts.  |
-    |  Critical  |  Set your communication preference for “Critical” Red Flag Alerts.   |
-    |  Email Addresses  |  Enter up to two email addresses that can be used for Red Flag Alert communication preferences.  |
-    |  Phone Numbers  |  Enter up to two phone numbers that can be used for Red Flag Alert communication preferences.  |
-    |  Text Messages  |  Enter up to two text message addresses that can be used for Red Flag Alert communication preferences. Note: Must be entered as the carrier SMS address (i.e. phonenumber@att.txt.com).  |
-    |  Map Type  |  Select the default map type. Options include, Map, Satellite, and Hybrid views.  |
-    |  Map Layers  |  Select the default map layers that are enabled. Options currently only include the Zones layer.  |
 
-    |   |   |   |   |   |
-    |---|---|---|---|---|
-    |   |   |   |   |   |
-    |   |   |   |   |   |
-    |   |   |   |   |   |
+|  Field  |  Description  |
+|---|---|
+|  Group  |  The Group/Division the user is assigned to.  |
+|  Team  |  The Team the user is assigned to.  |
+|  User Name  |  The user’s XyZ Co portal account username.  |
+|  Locale  |  The user's language of choice.  |
+|  Measurement  |  How measurements are displayed in the portal. Options include English (US Standard) or Metric (European Standard).  |
+|  Fuel Efficiency Ratio  | Sets the fuel conversion preference. Options include MPG (miles per gallon) or KPL (kilometers per liter).  |
+|  Information  |  Set your communication preference for “Information” Red Flag Alerts.  |
+|  Warning  |  Set your communication preference for “Warning” Red Flag Alerts.  |
+|  Critical  |  Set your communication preference for “Critical” Red Flag Alerts.   |
+|  Email Addresses  |  Enter up to two email addresses that can be used for Red Flag Alert communication preferences.  |
+|  Phone Numbers  |  Enter up to two phone numbers that can be used for Red Flag Alert communication preferences.  |
+|  Text Messages  |  Enter up to two text message addresses that can be used for Red Flag Alert communication preferences. Note: Must be entered as the carrier SMS address (i.e. phonenumber@att.txt.com).  |
+|  Map Type  |  Select the default map type. Options include, Map, Satellite, and Hybrid views.  |
+|  Map Layers  |  Select the default map layers that are enabled. Options currently only include the Zones layer.  |
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
