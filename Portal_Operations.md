@@ -14,7 +14,7 @@ Maintain a user profile through the XyZ Co Portal.
  7. Red Flag preferences control settings on information, warning, and critical notifications from the system. Set Red Flag preferences for information, warning, and critical notifications by selecting an item in each drop-down list in the Notifications section.
 
 *Table 1*
-
+git
     |  Field  |  Description  |
     |----|----|
     |  Group  |  The Group/Division the user is assigned to.  |
