@@ -31,7 +31,11 @@ Maintain a user profile through the XyZ Co. Portal.
 |  Map Type  |  Select the default map type. Options include, Map, Satellite, and Hybrid views.  |
 |  Map Layers  |  Select the default map layers that are enabled. Options currently only include the Zones layer.  |
 ## Navigation Tree
-The Navigation Tree can be accessed by hovering the mouse cursor over the Home button. The Navigation Tree provides navigation to the page of specific divisions or teams within your organization. The Navigation Tree is especially useful for managers that oversee multiple teams or divisions.
+Access the Navigation Tree by hovering the cursor over the Home button. The Navigation Tree provides navigation to the page of specific divisions or teams within your organization. The Navigation Tree is especially useful for managers that oversee multiple teams or divisions.
 
 *Navitagtion Tree image*
-[navigation tree]
+[navigation tree](https://github.com/johnheeder/markdown_space/commit/71882f62231f5a65ccb91669adf8791222075f2f#diff-644aff3050d710725cc1891c3d9604d7)
+## Home Page
+The Home page that displays at login depends on the level of access granted to the user account, which is determined based on the role in the organization. The page displayed may be Top Level access or Team Level access - the highest level of the area of responsibility. Options include:
+* Fleet Dashboard shows an administrators view of the organization. Depending on the administrators role in the organization, they may see data ranging from a specific group/division all the way up to the entire fleet.
+* Team Dashboard shows the team view that displays for a non-administrator, such as a team supervisor or a user with limited access to information within the portal.
