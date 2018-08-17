@@ -1,9 +1,8 @@
 ﻿XyZ Co. ![XyZ logo](https://github.com/johnheeder/markdown_space/blob/master/images/Avatar_new.png)
 # Portal User Manual
-This chapter is an introduction to the Portal. The information on getting started with the Portal helps users get up and running. 
+This chapter is an introduction to the Portal. The information on getting started with the Portal helps users get up and running.
 ## Portal Log In
 Your XyZ Co™ Portal account will be activated the first time you log in. Follow the instructions below to access and log in to the XyZ Co web portal.
-
  1. Navigate to http://my.XyZCo.com.
  2. Enter the username and password (assigned by your administrator) then click the Login button.
  3. The interface opens with your Home page selected (Fleet or Team Dashboard). Home page layouts vary, depending on your role in your organization.
@@ -12,8 +11,8 @@ Maintain a user profile through the XyZ Co Portal.
  1. At the top of the screen, click the My Account link. The My Account page appears, with account information, notification preferences, login information, and contact information.
  5. To change a password, click the Change Password link, make the change, then click Change. For security reasons, our recommendation is to create a password with at least eight characters using both letters and numbers.
  6. To update an account, click the Edit button and complete the form. Refer to Table 1 below for help on the fields.
- 7. Red Flag preferences control settings on information, warning, and critical notifications from the system. Set Red Flag preferences for information, warning, and critical notifications by selecting an item in each drop-down list in the Notifications section. 
-*Table 1* 
+ 7. Red Flag preferences control settings on information, warning, and critical notifications from the system. Set Red Flag preferences for information, warning, and critical notifications by selecting an item in each drop-down list in the Notifications section.
+*Table 1*
     |  Field  |  Description  |
     |----|----|
     |  Group  |  The Group/Division the user is assigned to.  |
@@ -30,5 +29,3 @@ Maintain a user profile through the XyZ Co Portal.
     |  Text Messages  |  Enter up to two text message addresses that can be used for Red Flag Alert communication preferences. Note: Must be entered as the carrier SMS address (i.e. phonenumber@att.txt.com).  |
     |  Map Type  |  Select the default map type. Options include, Map, Satellite, and Hybrid views.  |
     |  Map Layers  |  Select the default map layers that are enabled. Options currently only include the Zones layer.  |
-
-
