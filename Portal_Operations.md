@@ -15,7 +15,7 @@ Maintain a user profile through the XyZ Co. Portal.
 
 *Table 1*
 |  Field  |  Description  |
-|---|---|
+|----|----|
 |  Group  |  The Group/Division the user is assigned to.  |
 |  Team  |  The Team the user is assigned to.  |
 |  User Name  |  The user’s XyZ Co. portal account username.  |
