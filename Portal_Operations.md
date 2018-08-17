@@ -39,3 +39,5 @@ Access the Navigation Tree by hovering the cursor over the Home button. The Navi
 The Home page that displays at login depends on the level of access granted to the user account, which is determined based on the role in the organization. The page displayed may be Top Level access or Team Level access - the highest level of the area of responsibility. Options include:
 * Fleet Dashboard shows an administrators view of the organization. Depending on the administrators role in the organization, they may see data ranging from a specific group/division all the way up to the entire fleet.
 * Team Dashboard shows the team view that displays for a non-administrator, such as a team supervisor or a user with limited access to information within the portal.
+
+END OF SAMPLE
