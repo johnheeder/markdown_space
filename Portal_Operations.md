@@ -31,3 +31,9 @@ git
     |  Text Messages  |  Enter up to two text message addresses that can be used for Red Flag Alert communication preferences. Note: Must be entered as the carrier SMS address (i.e. phonenumber@att.txt.com).  |
     |  Map Type  |  Select the default map type. Options include, Map, Satellite, and Hybrid views.  |
     |  Map Layers  |  Select the default map layers that are enabled. Options currently only include the Zones layer.  |
+
+    |   |   |   |   |   |
+    |---|---|---|---|---|
+    |   |   |   |   |   |
+    |   |   |   |   |   |
+    |   |   |   |   |   |
