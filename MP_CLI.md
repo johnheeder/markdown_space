@@ -52,12 +52,15 @@ Run the following commands to build the code.
 Or to get additional debug output when the program is run, use these commands.
 
 `cd cfmi/cli autoreconf -i`
+
 `./configure`
+
 `make CFLAGS="-DDEBUG"`
 ## CFMI SG Build
 The cfmisg utility is the SES counterpart to the vbm_cfmi utility found in the BC repository. However, cfmisg has no dependencies on the BC repository so it is not kept there. This utility makes calls to scsi devices to retrieve SEP enclosure information. Like the BC CLI, the build system for this utility is designed to be easily rebuilt on multiple Linux distributions by use the autoconf suite of tools. The following are required to be installed on a Debian system to build the cfmisg utility.
 ### Debian build requirements
 `sudo apt-get update`
+
 `sudo apt-get install autoconf libsgutils2-dev`
 
 Or on CentOS.
@@ -67,5 +70,5 @@ Or on CentOS.
 
 Run the following lines to build the code.
 
-`cd cfmi/sg autoreconf -i
-./configure make`
+`cd cfmi/sg autoreconf -i`
+`./configure make`
