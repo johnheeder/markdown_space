@@ -16,9 +16,7 @@ The CFMI web server must run on a host with the VBS and Saratoga drivers loaded.
 
 ```
 sudo apt-get update
-
 sudo apt-get install -y curl nmap nodejs npm
-
 libcurl4-gnutls-dev
 ```
 
