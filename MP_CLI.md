@@ -147,3 +147,5 @@ Each command in the file is run, regardless of the result of any previous comman
 ./cfmicli -c ../data/sample.cmd
 ```
 Output is printed directly on the console.
+
+> END SAMPLE 
